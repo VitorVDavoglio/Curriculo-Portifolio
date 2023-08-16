@@ -13,4 +13,4 @@ Aqui está organizado e explicado minhas aplicações profissionais e complement
 
 ## Projetos em cursos extracurriculares (em desenvolvimeto)
 
-<img src="">
+<img src="images/stair_in_construction.jpg" witdh="300" height="300">
